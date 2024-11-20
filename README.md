@@ -48,8 +48,7 @@
 
 
 
-# 💻 Skills:
-![LeetCode](https://leetcode.com/u/tanushka_07/)!
+
 
 
 
