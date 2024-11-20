@@ -15,7 +15,7 @@
 <table cellspacing="0" cellpadding="0" style="border: none;">
     <tr>
         <th>
-            <img align='left' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="290"></th>
+
 <th align='left'>
     <br>
     
@@ -99,7 +99,7 @@ https://www.youtube.com/watch?v=n6d4KHSKqGk&t=107s   -- how to resolve the API l
 
 
 
-<h3 align="left">Connect with me:</h3>
-<
+
+
 
 
