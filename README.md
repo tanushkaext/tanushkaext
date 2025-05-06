@@ -33,7 +33,7 @@
 
   
 
-- 🔗 Let's connect on [LinkedIn]([https://www.linkedin.com/in/tanushka-saxena-732919315]) to stay updated on my professional journey
+- 🔗 Let's connect on [LinkedIn](https://www.linkedin.com/in/tanushka-saxena-732919315) to stay updated on my professional journey
 
 - 👤  My leetcode profile [leetcode](https://leetcode.com/u/tanushka_07/) to check my problem solving.                       
                                        
