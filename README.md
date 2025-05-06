@@ -24,10 +24,10 @@
 - 🌱 I’m currently learning Problem Solving Skill and Data Structures.
 - 👯 I’m looking to collaborate on different open source projects on different technologies to upskill my graph of work.
 - 🤔 I’m looking for help with other tech enthsiast and industry specialist
-- 💬 Ask me about we can chat on different technologies
+- 💬 Ask me about: we can chat on different technologies
 - 📫 How to reach me: saxenatanu2005@gmail.com
 
-- ⚡ Fun fact: ...- 🚀 currently working to upgrade my logic building .
+- ⚡ Fun fact: ...- 🚀 currently working to upgrade my logic building.
 
   
 
@@ -35,9 +35,9 @@
 
 - 🔗 Let's connect on [LinkedIn]([https://www.linkedin.com/in/tanushka-saxena-732919315]) to stay updated on my professional journey
 
-- 👤  My leetcode profile [[leetcode](https://leetcode.com/u/tanushka_07/)] to check my problem solving.                       
+- 👤  My leetcode profile [leetcode](https://leetcode.com/u/tanushka_07/) to check my problem solving.                       
                                        
-- 📧 Feel free to reach out to me via email at  [[email](saxenatanu2005@gmail.com]. 
+- 📧 Feel free to reach out to me via email at  [email](saxenatanu2005@gmail.com). 
 
 - 🔍 Explore my extensive experience and projects on [GitHub](https://github.com/tanushkaext)
 
